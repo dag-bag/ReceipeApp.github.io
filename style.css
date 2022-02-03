@@ -39,7 +39,7 @@ img {
 }
 
 .mobileContainer {
-  width: 40rem;
+  max-width: 60rem;
   width: 100%;
   min-height: 100vh;
   display: flex;
